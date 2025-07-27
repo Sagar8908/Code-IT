@@ -1,3 +1,4 @@
+
 const fs = require("fs");
 const idfstr = fs.readFileSync("IDF.txt").toString();
 const idf = idfstr.split("\n");

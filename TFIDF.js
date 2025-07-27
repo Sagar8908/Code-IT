@@ -1,4 +1,5 @@
 const fs = require("fs");
+
 const N = 2874;
 const W = 37641;
 const tfidf = new Array(N);
